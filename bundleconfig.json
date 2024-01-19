@@ -1,0 +1,10 @@
+[
+  {
+    "outputFileName": "js/vicky.min.js",
+    "inputFiles": [
+      "js/one.js",
+      "js/two.js"
+    ]
+    "minify": {"enabled",true}
+  }
+]

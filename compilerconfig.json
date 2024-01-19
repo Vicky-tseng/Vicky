@@ -1,0 +1,14 @@
+﻿[
+  {
+    "outputFile": "Scss/vicky.scss",
+    "inputFile": "Scss/one.scss"
+  },
+  {
+    "outputFile": "Scss/vicky.css",
+    "inputFile": "Scss/two.scss"
+  },
+  {
+    "outputFile": "Scss/vicky.css",
+    "inputFile": "Scss/one.scss"
+  }
+]
